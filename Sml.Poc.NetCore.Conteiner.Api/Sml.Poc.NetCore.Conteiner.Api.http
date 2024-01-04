@@ -1,0 +1,6 @@
+@Sml.Poc.NetCore.Conteiner.Api_HostAddress = http://localhost:5230
+
+GET {{Sml.Poc.NetCore.Conteiner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
